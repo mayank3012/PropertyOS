@@ -1,0 +1,7 @@
+# Default owner for everything
+*               @mayank3012
+
+# Sensitive areas (the last matching line wins)
+/contract/      @mayank3012
+/infra/         @mayank3012
+/.github/       @mayank3012
